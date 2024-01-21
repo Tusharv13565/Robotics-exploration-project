@@ -1,0 +1,2 @@
+# Robotics exploration project
+ MAE 598 - Robotics Exploratiion project. Our project implements an efficient multi-robot exploration algorithm for unknown environments, as proposed in (https://ieeexplore.ieee.org/document/4650734/), featuring a Python simulation with a custom controller that combines steering and collision avoidance, demonstrated to achieve full exploration in procedurally generated environments with occasional path planning issues.
